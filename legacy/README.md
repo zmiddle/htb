@@ -2,7 +2,7 @@
 
 ## Enumeration
 Nmap:
-'''
+```
 # Nmap 7.93 scan initiated Thu May 18 22:20:32 2023 as: nmap -Pn -n -p- -sC -sV -oN initial 10.10.10.4
 Nmap scan report for 10.10.10.4
 Host is up (0.027s latency).
@@ -32,4 +32,4 @@ Host script results:
 
 Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
 # Nmap done at Thu May 18 22:21:13 2023 -- 1 IP address (1 host up) scanned in 40.24 seconds
-'''
+```
