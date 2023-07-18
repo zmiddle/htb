@@ -165,3 +165,4 @@ python2.7 ms08_067_2018_2.7.py 10.10.10.4 6 445
 I was running into compatibility issues so I modified andyacer's exploit to run in Python2.7 since Python3 requires different formatting through out the exploit. Porting to 2.7 would require less changes to the exploit.
 
 After some trial and error, I was able to get the system shell and grab both credentials.
+[<img height="200" width="200px" src="https://github.com/zmiddle/htb/legacy/legacy%20pwned.png" />](https://www.hackthebox.com/achievement/machine/259690/2) 
