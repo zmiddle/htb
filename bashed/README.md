@@ -1,6 +1,5 @@
 # Bashed Walkthrough
 
-## Enumeration
 Initial nmap scan... Apache web server on port 80 is interesting...
 ```
 # Nmap 7.93 scan initiated Sat Jun  3 13:20:27 2023 as: nmap -Pn -n -sVC -T4 -p- -v -oN initial 10.10.10.68
