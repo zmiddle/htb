@@ -98,7 +98,7 @@ Service detection performed. Please report any incorrect results at https://nmap
 ```
 Search for distccd vulnerabilities and exploits.
 
-Found CVE-2004-2687, and the following exploit.
+Found CVE-2004-2687, and the following exploit, shout out to DarkCoderSc for porting this from a metasploit exploit.
 distccd_rce_CVE-2004-2687.py
 
 Running the exploit.
