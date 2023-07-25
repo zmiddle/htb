@@ -41,3 +41,5 @@ Copy the name into the URL to 'call' the file, make sure listener is up.
 
 Get root.
 
+
+[<img height="600" width="600px" src="https://github.com/zmiddle/htb/blob/main/jerry/jerry_pwned.png" />](https://www.hackthebox.com/achievement/machine/259690/144) 
