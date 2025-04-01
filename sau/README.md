@@ -30,4 +30,3 @@ port 22 - ssh - OpenSSH 8.2p1, Ubuntu server
 port 80 - http - filtered? some kind of firewall might be blocking this?
 port 55555 - unknown? very odd- invalid basket name?
 
-![ScreenShot]([https://github.com/zmiddle/htb/blob/main/sau/Sau%20Request%20Basket%20testing.png])
